@@ -4,9 +4,6 @@
 ;location off1. The values of n is between 10d to 120d and is stored in location cnt1.
 ;[The size n need not to be a multiple of m]
 
-
-
-
 .MODEL TINY
 .486
 .DATA
